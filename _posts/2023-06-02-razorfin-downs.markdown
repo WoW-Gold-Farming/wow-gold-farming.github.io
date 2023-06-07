@@ -1,5 +1,5 @@
 ---
-categories: dungeon
+categories: dungeon solo
 title: Razorfin Downs
 layout: post
 ---
