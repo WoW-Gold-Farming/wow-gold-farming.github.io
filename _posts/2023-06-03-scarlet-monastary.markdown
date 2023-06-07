@@ -1,5 +1,5 @@
 ---
-categories: dungeon
+categories: dungeon solo
 title: Scarlet Monastery
 layout: post
 ---
@@ -34,10 +34,35 @@ Once you enter the chapel, take a left and start killing the mobs and looting as
 <img src="/assets/crusaders-chapel.gif">
 
 
-## The Full List
+## The Notable Drops
 
+### Blues
 
+- {% include wowhead-item.html itemId="7759" note="Archon Chestpiece" %}
+- {% include wowhead-item.html itemId="7728" note="Beguiler Robes" %}
+- {% include wowhead-item.html itemId="7753" note="Bloodspiller" %}
+- {% include wowhead-item.html itemId="8226" note="The Butcher" %}
+- {% include wowhead-item.html itemId="7729" note="Chesterfall Musket" %}
+- {% include wowhead-item.html itemId="7730" note="Cobalt Crusher" %}
+- {% include wowhead-item.html itemId="7752" note="Dreamslayer" %}
+- {% include wowhead-item.html itemId="7755" note="Flintrock Shoulders" %}
+- {% include wowhead-item.html itemId="7754" note="Harbinger Boots" %}
+- {% include wowhead-item.html itemId="7736" note="Fight Club" %}
+- {% include wowhead-item.html itemId="2262" note="Mark of Kern" %}
+- {% include wowhead-item.html itemId="10332" note="Scarlet Boots" %}
+- {% include wowhead-item.html itemId="5756" note="Sliverblade" %}
+- {% include wowhead-item.html itemId="7761" note="Steelclaw Reaver" %}
+- {% include wowhead-item.html itemId="5819" note="Sunblaze Coif" %}
+- {% include wowhead-item.html itemId="1992" note="Swampchill Fetish" %}
+- {% include wowhead-item.html itemId="8225" note="Tainted Pierce" %}
+- {% include wowhead-item.html itemId="7727" note="Watchman Pauldrons" %}
+- {% include wowhead-item.html itemId="7757" note="Windweaver Staff" %}
 
+### Sets
+
+#### Hyperion
+
+{% include set-hyperion.html %}
 
 ## The Links
 
