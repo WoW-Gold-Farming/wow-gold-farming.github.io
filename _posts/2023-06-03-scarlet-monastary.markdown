@@ -82,5 +82,6 @@ These items are unique to Scarlet Monastary.
 {% include set-mercurial.html %}
 
 ## The Links
-
+- [Studen Albatroz](https://www.youtube.com/watch?v=Kx_y8BeGV54)
+- [Seathrift](https://www.youtube.com/watch?v=SU8GGQEz_m4)
 
