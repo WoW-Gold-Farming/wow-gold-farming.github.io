@@ -36,7 +36,13 @@ Once you enter the chapel, take a left and start killing the mobs and looting as
 
 ## The Notable Drops
 
+### World Drops
+These world drops can drop in this dungeon, but the chance of a drop is very low.
+
+{% include pool-high.html %}
+
 ### Blues
+These items are unique to Scarlet Monastary.
 
 - {% include wowhead-item.html itemId="7759" note="Archon Chestpiece" %}
 - {% include wowhead-item.html itemId="7728" note="Beguiler Robes" %}
@@ -60,9 +66,20 @@ Once you enter the chapel, take a left and start killing the mobs and looting as
 
 ### Sets
 
-#### Hyperion
+#### Elegant
+{% include set-elegant.html %}
 
+#### Hyperion
 {% include set-hyperion.html %}
+
+#### Imbued Plate
+{% include set-imbuedplate.html %}
+
+#### Masterwork
+{% include set-masterwork.html %}
+
+#### Mercurial
+{% include set-mercurial.html %}
 
 ## The Links
 
