@@ -20,7 +20,7 @@ The Scarlet Monastery is located in the northeast corner of Tristfal Glades.
 To get there as an alliance character, you will make your way up to the flight point of Hearthglen in the Western Plaugelands.  Then you fly due west and can enter the monastery.
 
 ### Alliance - Druid
-With a druid, you can {% include wowhead-spell.html spellId="193753" note="dreamwalk" %} to the {% include wowhead-zone.html zoneId="47" note="hinterlands" %} and take the flight path from Stormfeather Outpost to Hearthglen.
+With a druid, you can {% include wowhead-spell.html spellId="193753" note="dreamwalk" %} to the {% include wowhead-zone.html zoneId="47" note="The Hinterlands" %} and take the flight path from Stormfeather Outpost to Hearthglen.
 
 ### Horde
 For the horde, just take a portal to Undercity and then fly to the northeast corner of Tristfal Glades.
