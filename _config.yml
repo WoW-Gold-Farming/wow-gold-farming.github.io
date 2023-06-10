@@ -21,7 +21,7 @@
 title: WoW Gold Farms
 description: >- # this means to ignore newlines until "baseurl:"
   Your source for all of the best wow farms.  Be it pets, mounts, transmogs, or materials, this is your
-  one stop for all World of Warcraft gold farms.
+  one stop for all World of Warcraft gold farms. Copyright © 2023 Stratford Holdings LLC.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /posts/:title
