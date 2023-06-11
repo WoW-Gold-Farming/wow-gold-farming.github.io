@@ -1,5 +1,7 @@
 {%- if include.posts  -%}
+{%- if include.title  -%}
 <h2 class="post-list-heading">{{include.title}}</h2>
+{%- endif -%}
 <ul >
   {%- for post in include.posts -%}
   <li>

@@ -1,0 +1,46 @@
+---
+categories: material fiveman solo
+title: Felcloth
+layout: post
+---
+
+## The Farm
+In this farm, you are targeting the crafting material {% include wowhead-item.html itemId="14256" note="Felcloth" %}. With the 10.1.5 patch that will contain [new crafting recipes](https://www.wowhead.com/news/naxxramas-returning-content-in-patch-10-1-5-ptr-ancient-recipes-new-mount-332939), the {% include wowhead-item.html itemId="14256" note="Felcloth" %} has become a sought after commodity.  
+
+For this farm, we will target {% include wowhead-npc.html itemId="46950" note="Misty Grell" %} in the northwest corner the  {% include wowhead-zone.html zoneId="8" note="Swamp of Sorrows"%} that respawn very quickly when farmed.  This farm can be done solo, but you will get better rates with at least 3 and up to 5.
+
+<img src="/assets/misty-grells-location.jpg">
+
+## Getting There
+
+### Alliance
+Take the flight path from Stormwind to the Harborage in the {% include wowhead-zone.html zoneId="8" note="Swamp of Sorrows"%}  and then fly over from there.
+
+### Horde
+Take the zepplin from Orgrimmar to Grom'gol in the {% include wowhead-zone.html zoneId="5339" note="Stranglethorn Vale"%}. Take the flight path to the Stonard in the {% include wowhead-zone.html zoneId="8" note="Swamp of Sorrows"%} and fly over from there.
+
+### Horde - Druid
+Use Dreamwalk and take the portal to Duskwood.  From there, you can fly due east to enter the {% include wowhead-zone.html zoneId="8" note="Swamp of Sorrows"%}.
+
+## The Route
+The route is a simple loop where you and all your friends loot and kill. Stay spread out to maximimize your kills per hour.
+
+<img src="/assets/felcloth-route.gif">
+
+### Macro
+The following macro works for druids, but simply replace the `/use moonfire` with whatever spell your class uses for instant damage. This macro targets the {% include wowhead-npc.html itemId="46950" note="Misty Grell" %} and casts Moonfire.  
+
+```
+#showtooltip
+/tar misty
+/use moonfire
+```
+
+## The Loot
+Your main target for this farm is the {% include wowhead-item.html itemId="14256" note="Felcloth" %} and, to be honest, you will probably not get much else.  The Misty Grell don't always drop loot, so don't be surprised to see corpses with no loot attached to them.
+
+With a five man group, you can expect somewhere around 200 {% include wowhead-item.html itemId="14256" note="Felcloth" %} per hour.  Solo is closer to 70, so keep that in mind when looking at the price of {% include wowhead-item.html itemId="14256" note="Felcloth" %} in your region.
+
+## Links
+- [WTB Gold](https://youtu.be/hiRUyfxUNTY?t=152)
+- [Boophie](https://www.youtube.com/watch?v=946w6tMRVyo)
