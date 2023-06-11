@@ -1,7 +1,7 @@
 ---
 categories: material fiveman
 title: Golden Pearls
-layout: post
+layout: goldpost
 ---
 
 ## The Farm
@@ -45,3 +45,5 @@ The following macro works for druids, but simply replace the `/use moonfire` wit
 Your main target for this farm is the {% include wowhead-item.html itemId="13926" note="Golden Pearl" %}, but you can still get other world drop items and some zone specific drops like the {% include wowhead-item.html itemId="10593" note="Imperfect Draenethyst Fragment" %} and {% include wowhead-item.html itemId="8244" note="Flawless Draenethyst Sphere" %} (dropped by rares in the area).
 
 RNG plays a big role when opening the clams, but with a five man group, you should expect 15-40 {% include wowhead-item.html itemId="13926" note="Golden Pearl" %} in an hour.
+
+{% include adunit.html %}

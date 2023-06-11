@@ -1,7 +1,7 @@
 ---
 categories: mount fiveman twobyfour
 title: Goldenmane's Reins
-layout: post
+layout: goldpost
 ---
 
 ## The Farm

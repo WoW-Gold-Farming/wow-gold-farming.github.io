@@ -1,13 +1,13 @@
 ---
 categories: material fiveman solo
 title: Felcloth
-layout: post
+layout: goldpost
 ---
 
 ## The Farm
 In this farm, you are targeting the crafting material {% include wowhead-item.html itemId="14256" note="Felcloth" %}. With the 10.1.5 patch that will contain [new crafting recipes](https://www.wowhead.com/news/naxxramas-returning-content-in-patch-10-1-5-ptr-ancient-recipes-new-mount-332939), the {% include wowhead-item.html itemId="14256" note="Felcloth" %} has become a sought after commodity.  
 
-For this farm, we will target {% include wowhead-npc.html itemId="46950" note="Misty Grell" %} in the northwest corner the  {% include wowhead-zone.html zoneId="8" note="Swamp of Sorrows"%} that respawn very quickly when farmed.  This farm can be done solo, but you will get better rates with at least 3 and up to 5.
+For this farm, we will target {% include wowhead-npc.html npcId="46950" note="Misty Grell" %} in the northwest corner the {% include wowhead-zone.html zoneId="8" note="Swamp of Sorrows"%} that respawn very quickly when farmed.  This farm can be done solo, but you will get better rates with at least 3 and up to 5.
 
 <img src="/assets/misty-grells-location.jpg">
 
@@ -40,6 +40,8 @@ The following macro works for druids, but simply replace the `/use moonfire` wit
 Your main target for this farm is the {% include wowhead-item.html itemId="14256" note="Felcloth" %} and, to be honest, you will probably not get much else.  The Misty Grell don't always drop loot, so don't be surprised to see corpses with no loot attached to them.
 
 With a five man group, you can expect somewhere around 200 {% include wowhead-item.html itemId="14256" note="Felcloth" %} per hour.  Solo is closer to 70, so keep that in mind when looking at the price of {% include wowhead-item.html itemId="14256" note="Felcloth" %} in your region.
+
+{% include adunit.html %}
 
 ## Links
 - [WTB Gold](https://youtu.be/hiRUyfxUNTY?t=152)

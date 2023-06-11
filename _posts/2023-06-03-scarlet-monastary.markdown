@@ -1,7 +1,7 @@
 ---
 categories: dungeon solo
 title: Scarlet Monastery
-layout: post
+layout: goldpost
 ---
 
 ## The Farm

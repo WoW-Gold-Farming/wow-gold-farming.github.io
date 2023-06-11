@@ -1,7 +1,7 @@
 ---
 categories: mount fiveman twobyfour
 title: Chewed-On Reins of the Terrified Pack Mule
-layout: post
+layout: goldpost
 ---
 
 ## The Farm
@@ -27,6 +27,8 @@ Your goal is to kill all the Hexthralled mobs in the area as quickly as possible
 ## The Notable Drops
 
 - {% include wowhead-item.html itemId="163574" note="Chewed-On Reins of the Terrified Pack Mule" %}
+
+{% include adunit.html %}
 
 ## Links
 - [Studen Albatroz](https://www.youtube.com/watch?v=uU3uwY5czzo)
