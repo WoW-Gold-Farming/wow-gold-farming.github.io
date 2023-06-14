@@ -82,7 +82,7 @@ Many (but not all) items from these sets drop in the Silithus farm.  If you are 
 {% include set-impenetrable.html %}
 
 #### Indomitable
-{% include set-indombitable.html %}
+{% include set-indomitable.html %}
 
 #### Jade
 {% include set-jade.html %}
