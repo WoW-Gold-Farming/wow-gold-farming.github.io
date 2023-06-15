@@ -66,8 +66,20 @@ These items are unique to Scarlet Monastary.
 
 ### Sets
 
+#### Banded
+{% include sets/set-banded.html %}
+
+#### Battleforge
+{% include sets/set-battleforge.html %}
+
+#### Durable
+{% include sets/set-durable.html %}
+
 #### Elegant
 {% include sets/set-elegant.html %}
+
+#### Glimmering Mail
+{% include sets/set-glimmering-mail.html %}
 
 #### Hyperion
 {% include sets/set-hyperion.html %}
@@ -75,11 +87,23 @@ These items are unique to Scarlet Monastary.
 #### Imbued Plate
 {% include sets/set-imbuedplate.html %}
 
+#### Infiltrator
+{% include sets/set-infiltrator.html %}
+
 #### Masterwork
 {% include sets/set-masterwork.html %}
 
 #### Mercurial
 {% include sets/set-mercurial.html %}
+
+#### Sage
+{% include sets/set-sage.html %}
+
+#### Silver-Thread
+{% include sets/set-silver-thread.html %}
+
+#### Traveler's
+{% include sets/set-travelers.html %}
 
 ## The Links
 - [Studen Albatroz](https://www.youtube.com/watch?v=Kx_y8BeGV54)
