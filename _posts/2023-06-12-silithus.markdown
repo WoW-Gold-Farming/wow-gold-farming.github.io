@@ -46,46 +46,97 @@ These world drops can be obtained from the Silithus mobs, but the drop rate is g
 Many (but not all) items from these sets drop in the Silithus farm.  If you are farming for a specific item, check it's drop list.
 
 #### Archnidian
-{% include set-archnidian.html %}
+{% include sets/set-archnidian.html %}
 
 #### Bloodlust
-{% include set-bloodlust.html %}
+{% include sets/set-bloodlust.html %}
 
 #### Bonecaster's
-{% include set-bonecasters.html %}
+{% include sets/set-bonecasters.html %}
 
 #### Celestial
-{% include set-celestial.html %}
+{% include sets/set-celestial.html %}
 
 #### Eternal
-{% include set-eternal.html %}
+{% include sets/set-eternal.html %}
 
 #### Exalted
-{% include set-exalted.html %}
+{% include sets/set-exalted.html %}
 
 #### Glorious
-{% include set-glorious.html %}
+{% include sets/set-glorious.html %}
 
 #### Grand
-{% include set-grand.html %}
+{% include sets/set-grand.html %}
 
 #### Heroic
-{% include set-heroic.html %}
+{% include sets/set-heroic.html %}
 
 #### High Chief's
-{% include set-highchiefs.html %}
+{% include sets/set-highchiefs.html %}
 
 #### Highborne
-{% include set-highborne.html %}
+{% include sets/set-highborne.html %}
 
 #### Impenetrable
-{% include set-impenetrable.html %}
+{% include sets/set-impenetrable.html %}
 
 #### Indomitable
-{% include set-indomitable.html %}
+{% include sets/set-indomitable.html %}
 
 #### Jade
-{% include set-jade.html %}
+{% include sets/set-jade.html %}
+
+#### Jadefire
+{% include sets/set-jadefire.html %}
+
+#### Keeper's
+{% include sets/set-keepers.html %}
 
 #### Lofty
-{% include set-lofty.html %}
+{% include sets/set-lofty.html %}
+
+#### Magnificent
+{% include sets/set-magnificent.html %}
+
+#### Merciless
+{% include sets/set-merciless.html %}
+
+#### Opulent
+{% include sets/set-opulent.html %}
+
+#### Peerless
+{% include sets/set-peerless.html %}
+
+#### Potent
+{% include sets/set-potent.html %}
+
+#### Praetorian
+{% include sets/set-praetorian.html %}
+
+#### Pridelord
+{% include sets/set-pridelord.html %}
+
+#### Protector
+{% include sets/set-protector.html %}
+
+#### Resplendent
+{% include sets/set-resplendent.html %}
+
+#### Sunscale
+{% include sets/set-sunscale.html %}
+
+#### Supreme
+{% include sets/set-supreme.html %}
+
+#### Vanguard
+{% include sets/set-vanguard.html %}
+
+#### Venomshroud
+{% include sets/set-venomshroud.html %}
+
+#### Warleader's
+{% include sets/set-warleaders.html %}
+
+#### Warstrike
+{% include sets/set-warstrike.html %}

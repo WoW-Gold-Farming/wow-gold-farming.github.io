@@ -67,19 +67,19 @@ These items are unique to Scarlet Monastary.
 ### Sets
 
 #### Elegant
-{% include set-elegant.html %}
+{% include sets/set-elegant.html %}
 
 #### Hyperion
-{% include set-hyperion.html %}
+{% include sets/set-hyperion.html %}
 
 #### Imbued Plate
-{% include set-imbuedplate.html %}
+{% include sets/set-imbuedplate.html %}
 
 #### Masterwork
-{% include set-masterwork.html %}
+{% include sets/set-masterwork.html %}
 
 #### Mercurial
-{% include set-mercurial.html %}
+{% include sets/set-mercurial.html %}
 
 ## The Links
 - [Studen Albatroz](https://www.youtube.com/watch?v=Kx_y8BeGV54)
