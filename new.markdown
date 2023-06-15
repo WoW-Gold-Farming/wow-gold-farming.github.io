@@ -9,14 +9,7 @@ permalink: /new/
     {% assign posts = site.posts %}
   {% endif %}
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
- {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
+ {%- for post in posts limit:10 -%}
+       <li> {{ post.date | date: date_format }} - <a  href="{{ post.url | relative_url }}"> {{ post.title | escape }}</a></li>
+
       {%- endfor -%}
