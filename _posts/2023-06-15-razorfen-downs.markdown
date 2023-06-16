@@ -5,7 +5,7 @@ layout: goldpost
 ---
 
 ## The Farm
-Razorfen Downs (aka RFD) is a great dungeon to get you started in the world of transmog.  It's a relatively short dungeon that you can easily finish 10 runs in under an hour.  Some examples of high value items you can get from RFD are:
+Razorfen Downs (aka RFD) is a great dungeon to get you started in the world of transmog.  It's a relatively short dungeon that you can easily finish 10 runs in under an hour. It has a pretty wide loot table and enough mobs that can help you add some girth to your auction house.  Some examples of high value items you can get from RFD are:
 
 - {% include wowhead-item.html itemId="10573" note="Boneslasher" %}
 - {% include wowhead-item.html itemId="10574" note="Corpseshroud" %}
@@ -18,7 +18,7 @@ Razorfen Downs is located in the southeast corner of the {% include wowhead-zone
 <img src="/assets/razorfen-downs.jpg" />
 
 ### Alliance and Horde
-Take the portal from Stormwind/Orgrimmar to the Caverns of Time. Fly to bootlegger outpost and take the flightpath there to Mudsproket in Dustwallow Marsh.  Then fly west from there a go down through the brambles to get to the entrance of the dungeon.
+Take the portal from Stormwind/Orgrimmar to the Caverns of Time. Fly to bootlegger outpost and take the flightpath there to Mudsproket in Dustwallow Marsh.  Then fly west from there and go down through the brambles to get to the entrance of the dungeon.
 
 ## The Route
 Upon entering the dungeon, stick to the left wall and kill and loot all of the mobs along the way. For the entire dungeon, sticking to the left wall will probably get you to the right spot.
