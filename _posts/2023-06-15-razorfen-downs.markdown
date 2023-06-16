@@ -95,5 +95,5 @@ Many (but not all) items from these sets drop in Razorfen Downs.  If you are far
 {% include sets/set-tyrants.html %}
 
 ## Links
-[The Tired Llama](https://www.youtube.com/watch?v=9I4hfmiFkcg)
-[Azahrex](https://www.youtube.com/watch?v=VCLTwtnWVko&t=28s)
+- [The Tired Llama](https://www.youtube.com/watch?v=9I4hfmiFkcg)
+- [Azahrex](https://www.youtube.com/watch?v=VCLTwtnWVko&t=28s)
