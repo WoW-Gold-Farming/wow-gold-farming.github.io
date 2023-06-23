@@ -41,8 +41,6 @@ Your main target for this farm is the {% include wowhead-item.html itemId="14256
 
 With a five man group, you can expect somewhere around 200 {% include wowhead-item.html itemId="14256" note="Felcloth" %} per hour.  Solo is closer to 70, so keep that in mind when looking at the price of {% include wowhead-item.html itemId="14256" note="Felcloth" %} in your region.
 
-{% include adunit.html %}
-
 ## Links
 - [WTB Gold](https://youtu.be/hiRUyfxUNTY?t=152)
 - [Boophie](https://www.youtube.com/watch?v=946w6tMRVyo)
